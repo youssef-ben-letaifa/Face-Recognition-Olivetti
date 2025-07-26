@@ -41,21 +41,16 @@ This project demonstrates how to perform facial recognition and analysis on the 
 
 **Setup**
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/youssef-ben-letaifa/Olivetti-Faces-Classification-Enhanced.git
-    cd Olivetti-Faces-Classification-Enhanced
-    ```
 
-2. Install dependencies:
+1. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
     *(Or install manually: `scikit-learn`, `numpy`, `pandas`, `matplotlib`, `seaborn`)*
 
-3. Download the Olivetti Faces data 
+2. Download the Olivetti Faces data 
 
-4. Launch Jupyter Notebook and open `Olivetti_Faces_Classification_Enhanced.ipynb`.
+3. Launch Jupyter Notebook and open `Olivetti_Faces_Classification_Enhanced.ipynb`.
 
 ---
 
